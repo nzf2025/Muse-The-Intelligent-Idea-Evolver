@@ -1,0 +1,13 @@
+{
+  "name": "缪斯灵感",
+  "description": "Muse: An AI-powered cognitive companion that transforms raw sparks into deep insights through structured dialogue and synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-driven dialogue",
+    "Multi-modal input",
+    "Structure extraction"
+  ]
+}
